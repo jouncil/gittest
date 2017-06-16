@@ -1,0 +1,1 @@
+Checking addition of new files in gittest repository. 
